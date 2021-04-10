@@ -4,13 +4,6 @@ You can use the [editor on GitHub](https://github.com/freddieyang/freddieyang.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 个人信息
-
-#### 姓名：杨锋
-#### 年龄：24
-#### 学历：硕士
-
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
