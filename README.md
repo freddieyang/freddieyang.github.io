@@ -1,2 +1,2 @@
-# freddieyang.github.io
-My personal website
+# Feng Yang
+Welcome to my website
