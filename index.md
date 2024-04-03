@@ -8,5 +8,7 @@ I am a PhD student at Wuhan University studying Machine Learning advised by Prof
 
 ### Contacts
 GitHub: [freddieyang](https://github.com/freddieyang)
+
 Google Scholar: https://scholar.google.com/citations?hl=en&user=qrqlRd4AAAAJ&view_op=list_works&sortby=pubdate
+
 Researchgate: https://www.researchgate.net/profile/Feng-Yang-87
