@@ -1,10 +1,6 @@
 ## Welcome to My Pages :)
 
-## You can use the [editor on GitHub](https://github.com/freddieyang/freddieyang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 I am a PhD student at Wuhan University studying Machine Learning.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
