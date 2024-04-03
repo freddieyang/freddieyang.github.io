@@ -1,8 +1,6 @@
 ## Welcome to My Pages :)
 
-I am a PhD student at Wuhan University studying Machine Learning.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a PhD student at Wuhan University studying Machine Learning advised by Prof. Juan Liu. My primary reasearch interests lie in Machine Learning, Computational Biology, Retrosynthesis Prediction and Metabolic Pathway Design. 
 
 ```markdown
 Syntax highlighted code block
