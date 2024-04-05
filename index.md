@@ -23,13 +23,6 @@ I am a PhD student at Wuhan University studying Machine Learning advised by Prof
 - Database：MySQL, MongoDB
 - Version Control：Git
 - Others：Docker
-
-### Tutoring
-- Computer homework tutoring: If you need help solving programming homework, such as course assignments in C language, Python, Java, C++, Matlab, etc., I can provide very detailed guidance.
-- Computer Basic Course Tutoring: If you are studying computer courses such as computer networks, operating systems, data structures and algorithms, compilation principles, network security, assembly language, as well as basic courses such as discrete mathematics, linear algebra, and advanced mathematics, I can help you understand concepts and solve problems.
-- Artificial intelligence tutoring: If you are interested in machine learning, deep learning, reinforcement learning, image recognition, natural language processing (NLP), or speech recognition, I can help you master the knowledge in these fields (I am currently pursuing a doctoral degree in 985 artificial intelligence in China).
-- Combination optimization tutoring: If you are interested in optimization algorithms, intelligent optimization, scheduling, and other areas, I can help you better understand these algorithms (my research direction in the master's stage, published 2 SCI papers).
-- Graduation Thesis Tutoring: If you need help writing your graduation thesis, I can provide structural suggestions, writing skills, and proofreading services.
  
 
 ### Contacts
